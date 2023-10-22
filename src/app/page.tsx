@@ -242,7 +242,7 @@ export default async function Home() {
             Web Developer, world traveler and a curious polyglot.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          I'm Alessandra Rayes Forte, a dedicated web developer with a passion for creativity and problem-solving. My journey in coding is like crafting art, where words transform into solutions that matter. My love for languages, as a polyglot, enriches my coding skills. Just as I explore diverse languages, I approach coding challenges with varied perspectives, creating innovative and effective solutions. Through clean code and responsive design, I bring ideas to life, making a real-world impact. Let's collaborate and turn visions into reality!
+            I&apos;m Alessandra Rayes Forte, a dedicated web developer with a passion for creativity and problem-solving. My journey in coding is like crafting art, where words transform into solutions that matter. My love for languages, as a polyglot, enriches my coding skills. Just as I explore diverse languages, I approach coding challenges with varied perspectives, creating innovative and effective solutions. Through clean code and responsive design, I bring ideas to life, making a real-world impact. Let&apos;s collaborate and turn visions into reality!
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink

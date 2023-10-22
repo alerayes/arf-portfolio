@@ -131,7 +131,7 @@ export default function Projects() {
             </h2>
             <Card.Description>{project.description}</Card.Description>
             {project.links.map((link) => (
-                <p className="relative z-10 mt-2 flex text-sm font-medium text-zinc-400 transition hover:text-pink-400 dark:text-zinc-100">
+                <p key={link.label} className="relative z-10 mt-2 flex text-sm font-medium text-zinc-400 transition hover:text-pink-400 dark:text-zinc-100">
                     <LinkIcon className="h-6 w-6 flex-none" />
                     <Link className="ml-2" href={link.href}>{link.label}</Link>
                 </p>
