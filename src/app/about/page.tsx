@@ -70,13 +70,13 @@ export default function About() {
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-            My passion for languages naturally led me to coding. I see the parallels between the complex design of traditional human languages and the structured world of coding. Both involve understanding rules, logic, and nuances. Just as learning a new language expands horizons, mastering coding languages permits new avenues for creativity and problem-solving. It's this blend of linguistic understanding and technological innovation that fuels my passion for both worlds.
+              My passion for languages naturally led me to coding. I see the parallels between the complex design of traditional human languages and the structured world of coding. Both involve understanding rules, logic, and nuances. Just as learning a new language expands horizons, mastering coding languages permits new avenues for creativity and problem-solving. It&apos;s this blend of linguistic understanding and technological innovation that fuels my passion for both worlds.
             </p>
             <p>
-            My love of languages and coding isn't self-contained; it's deeply intertwined with my passion for travel. Exploring different cultures provides me with fresh perspectives, encouraging me to view the world in diverse ways. This mindset translates into my coding journey, enabling me to think innovatively and consider unconventional approaches and unorthodox solutions. In other words, traveling has taught me to embrace the uncertainty and possibility of alternatives to find potential solutions that might not be immediately apparent or familiar but are incredibly effective.
+              My love of languages and coding isn&apos;t self-contained; it&apos;s deeply intertwined with my passion for travel. Exploring different cultures provides me with fresh perspectives, encouraging me to view the world in diverse ways. This mindset translates into my coding journey, enabling me to think innovatively and consider unconventional approaches and unorthodox solutions. In other words, traveling has taught me to embrace the uncertainty and possibility of alternatives to find potential solutions that might not be immediately apparent or familiar but are incredibly effective.
             </p>
             <p>
-            As a developer, I aim to solve real-world problems with meticulous coding and responsive design, focusing on seamless user experience. My enthusiasm lies in transforming inventive concepts into impactful, user-friendly applications, building a future of progress and empowerment. Let’s build together!
+              As a developer, I aim to solve real-world problems with meticulous coding and responsive design, focusing on seamless user experience. My enthusiasm lies in transforming inventive concepts into impactful, user-friendly applications, building a future of progress and empowerment. Let’s build together!
             </p>
           </div>
         </div>
